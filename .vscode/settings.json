@@ -7,5 +7,6 @@
     "Strathcona",
     "VPD's",
     "asymptotics"
-  ]
+  ],
+  "files.insertFinalNewline": true
 }
